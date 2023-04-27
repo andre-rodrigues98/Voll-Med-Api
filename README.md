@@ -5,10 +5,15 @@ A API permite o cadastro e gerenciamento de pacientes, médicos, especialidades 
 
 ## Tecnologias utilizadas
 Java 17
+
 Spring Boot
+
 Spring Data JPA
+
 Hibernate
+
 MySQL
+
 Maven
 
 ### Projeto em Construção 
